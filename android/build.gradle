@@ -37,8 +37,3 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
-}
-
-kotlin {
-    jvmToolchain(18)
-}
